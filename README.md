@@ -7,6 +7,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silas-hoffmann&layout=compact&theme=gotham)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=silas-hoffmann&theme=gotham)
+
 <hr>
 
 ### Linguagens e Tecnologias
