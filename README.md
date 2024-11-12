@@ -30,3 +30,8 @@
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" align="center">
     </img>
 </div>
+
+### Sobre mim 
+<div>
+<p>Sou estudante de Ciência da Computação na PUC - MG </br>Atualmente cursando no Segundo Período</p>
+</div>
