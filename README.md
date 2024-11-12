@@ -7,7 +7,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silas-hoffmann&layout=compact&theme=gotham)
 
+<hr>
 
+### Linguagens e Tecnologias
 <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" align="center">
     </img>
@@ -22,6 +24,8 @@
     </img>
 </div>
 <hr>
+
+### Redes
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/silas-hoffmann-b9a3031ba/)
