@@ -21,8 +21,7 @@
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" align="center">
     </img>
 </div>
-
-<br><hr><br>
+<hr>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/silas-hoffmann-b9a3031ba/)
