@@ -21,6 +21,9 @@
     </img>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" align="center">
     </img>
+    <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" align="center">
+    </img>
+    
 </div>
 <hr>
 
