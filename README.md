@@ -23,7 +23,7 @@
         <div>
             <a><img src="https://skillicons.dev/icons?i=postman,latex" /></a>
         </div>
-        <h3>Front-end</h3>
+        <h3>Social Medias</h3>
         <a href="https://www.linkedin.com/in/silas-hoffmann/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=silasrviana@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
     </div>
