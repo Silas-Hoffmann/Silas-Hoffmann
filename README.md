@@ -1,6 +1,6 @@
 <div align="center">
 
-### Languages and Technologies
+<h3>Languages and Technologies</h3>
 
 <div style="text-align: center;">
     <div style="margin-bottom: 10px;">
@@ -23,13 +23,10 @@
         <div>
             <a><img src="https://skillicons.dev/icons?i=postman,latex" /></a>
         </div>
+        <h3>Front-end</h3>
+        <a href="https://www.linkedin.com/in/silas-hoffmann/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=silasrviana@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
     </div>
 </div>
-
-### Social Medias
-
-<a href="https://www.linkedin.com/in/silas-hoffmann/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=silasrviana@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-
 </div>
 
